@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kcfdaniel/Downloads/Intercom_v1/snippets/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/kcfdaniel/.gradle/caches/transforms-1/files-1.1/twitter-core-1.6.0.aar/dea0e45281b716d0c02094d84559cde4/res/values-sw720dp/values-sw720dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "238",
+                        "endColumns": "75",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}

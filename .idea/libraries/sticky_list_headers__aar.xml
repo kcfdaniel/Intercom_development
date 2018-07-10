@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sticky-list-headers:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sticky-list-headers.aar/c54b9a5d4539f4e1aa8ad3feee4584d3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sticky-list-headers.aar/c54b9a5d4539f4e1aa8ad3feee4584d3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
